@@ -1,0 +1,43 @@
+.community-section {
+    background-color: white;
+    border-radius: var(--borded-radius);
+    border:1px solid rgb(200, 200, 200);
+}
+
+.community-section .title {
+    position: relative;
+
+    border-top-left-radius: var(--borded-radius);
+    border-top-right-radius: var(--borded-radius);
+
+    border-radius: var(--borded-radius);
+
+    height: 80px;
+    background-image: url("../../../../public/assests/images/community.png");
+}
+
+.community-section .title > span {
+    position: absolute;
+    
+    bottom: 10px;
+    left: 15px;
+    color: white;
+    font-weight: 600;
+}
+
+.community-section .communities-wrapper .community {
+    display: flex;
+    align-items: center;
+    padding: 8px 0px;
+    padding-left: 15px;
+    border-top: 1px solid rgb(240, 240, 240);
+}
+
+
+.community-section .communities-wrapper .community svg {
+    color: rgb(0, 255, 0);
+}
+
+.community-section .communities-wrapper .community .name {
+    font-weight: 600;
+}

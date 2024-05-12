@@ -1,0 +1,41 @@
+:root{
+    --primary-color: #2cadc1;
+    --border-radius: #7068c2;
+} 
+
+.actions{
+    display: flex;
+    align-items: center;
+    color: rgb(130, 130, 130);
+
+}
+
+.actions div:nth-child(2) {
+    margin: 0px 15px;
+}
+
+.profile:hover{
+    border: 1px solid rgb(130, 130, 130);
+}
+
+.profile {
+    border: 1px solid transparent;
+    border-radius: var(--border-radius);
+}
+
+/* .actions:hover {
+    border: 1px solid rgb(130, 130, 130);
+} */
+
+.profile svg {
+    margin-right: 8px;
+}
+
+.hoverable {
+    cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+.hoverable:hover {
+    color: rgb(2, 2, 2); /* Change color when hovered */
+    /* Add any other styles you want to apply on hover */
+}

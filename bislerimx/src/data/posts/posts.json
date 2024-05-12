@@ -1,0 +1,36 @@
+
+[
+    {
+      "title": "Which fictional world would you live in?",
+      "upvotes": 39,
+      "comments": 3,
+      "subreddit": {
+        "image_src": "/public//haha.png",
+        "name": "AskReddit"
+      },
+      "username": "Kiki9"
+    },
+    {
+      "title": "Crossover!",
+      "image_src": "/public/assets/images/post-1.png",
+      "upvotes": 100,
+      "comments": 12,
+      "subreddit": {
+        "image_src": "assets/images/post-1.png",
+        "name": "Memes"
+      },
+      "username": "Mrminisky_"
+    },
+    {
+      "title": "Snacks",
+      "description": "What was your best and biggest snack?",
+      "upvotes": 3,
+      "comments": 1,
+      "subreddit": {
+        "image_src": "assets/images/snack.png",
+        "name": "Snacks"
+      },
+      "username": "Triangul8"
+    }
+  ]
+ 

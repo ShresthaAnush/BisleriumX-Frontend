@@ -1,0 +1,21 @@
+[
+    {
+        "image_src": "../../../public/assests/images/logo.png",
+        "name": "redKingRedepmtion"
+    },
+
+    {
+        "image_src": "../../public/assests/images/logo.png",
+        "name": "NapelsPolitics"
+    },
+
+    {
+        "image_src": "../../public/assests/images/community.png",
+        "name": "redditWhyLike"
+    },
+
+    {
+        "image_src": "../../public/assests/images/logo.png",
+        "name": "Martin Guveda"
+    }
+]
